@@ -40,7 +40,7 @@
 #s-2 {
   display: flex;
   align-items: center;
-  background: black;
+  background: #F46036;
   background-size: cover;
   height: 100vh;
 }
@@ -54,7 +54,7 @@
 }
 
 #s-4 {
-  background: gray;
+  background: #2E294E;
   background-size: cover;
   min-height: 100vh;
 }
